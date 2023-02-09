@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Priyanshu!
 
 <a href="https://twitter.com/funwithrahul28/">
-  <img align="left" alt="Priyanshu Tripathy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Priyanshu's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanshu-tripathy-60b9a91b3/">
   <img align="left" alt="Priyanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,10 +9,12 @@
 <a href="https://www.instagram.com/btw__itz__rahull/">
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rahul.tripathy/">
+<a href="https://www.facebook.com/rahul.tripathy.3726/">
   <img align="left" alt="Priyanshu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<a href="https://www.kaggle.com/priyanshutripathy/">
+  <img align="left" alt="Priyanshu's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />
+</a>
 <br />
 <br />
 
