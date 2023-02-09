@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Priyanshu!
 
-<a href="https://twitter.com/funwithrahul28/">
+<a href="https://twitter.com/funwithrahul28">
   <img align="left" alt="Priyanshu's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanshu-tripathy-60b9a91b3/">
