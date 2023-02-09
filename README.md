@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/btw__itz__rahull/">
   <img align="left" alt="Priyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/rahul.tripathy/">
+  <img align="left" alt="Priyanshu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br />
 <br />
