@@ -14,7 +14,10 @@
 </a>
 <a href="https://www.kaggle.com/priyanshutripathy/">
   <img align="left" alt="Priyanshu's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" />
-</a>
+</a> 
+<a href="https://mail.google.com/mail/u/0/#settings/general">
+  <img aling="left" alt="Priyanshu's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Gmail.svg" />
+  </a> 
 
 <br />
 <br />
