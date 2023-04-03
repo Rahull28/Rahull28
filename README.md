@@ -17,7 +17,7 @@
 </a> 
 <a href="https://mail.google.com/mail/u/0/#settings/general">
   <img aling="left" alt="Priyanshu's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Gmail.svg" />
-  </a> 
+</a> 
 
 <br />
 <br />
