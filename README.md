@@ -30,7 +30,7 @@ Beside's programming, I enjoy eating food and traveling.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently Studing BCA;
-- 🌱 I’m currently learning python, HTML, CSS and C++; 
+- 🌱  I’m currently learning PYTHON, HTML, CSS, JS BASICS and C++; 
 - 👯 I’m looking to collaborate as a team player;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: funwithrahul28@gmail.com;
